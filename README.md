@@ -31,3 +31,19 @@ A Google Colab-ready implementation of the Operational Blueprint demonstrating a
 Production_Readiness_Checklist: 
 
 A definitive guide for transitioning the architecture to high-stakes production environments (Section 6.9).
+
+Scientific Rigor: Falsification Criteria
+
+To ensure this framework is a testable science, we establish the following conditions under which the model would be rejected (Section 5.5):
+
+## Scientific Rigor: Falsification Criteria
+
+To ensure this framework is a testable science, we establish the following conditions under 
+
+which the model would be rejected (Section 5.5):
+
+| Test Category | Rejection Rule | Theoretical Implication |
+| :--- | :--- | :--- | 
+| **Architectural Advantage** |Forgetting Rate $\ge$ Monolithic | Separation provides no benefit. |
+| **Neural Dissociation** | Identical network signatures| Undermines biological plausibility. |
+| **Construct Incoherence**| Negative behavioral/neural correlation | Framework is incoherent.|
