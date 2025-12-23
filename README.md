@@ -1,4 +1,9 @@
-# The Dual-Self Systems Model: A Principled Framework for Stability-Plasticity
+# The Dual-Self Systems Model: Operational Blueprint
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18040119.svg)](https://doi.org/10.5281/zenodo.18040119)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/your-repo-name/blob/main/Dual_Self_Model.ipynb)
+
+
 
 Current artificial intelligence systems face a fundamental dilemma: rapid adaptation to new tasks often erases foundational knowledge (catastrophic forgetting), while protecting foundation models prevents personalization. This repository presents the Operational Blueprint, an architectural framework that addresses this challenge through explicit time-scale separation.
 
