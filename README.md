@@ -2,23 +2,23 @@
 
 Current artificial intelligence systems face a fundamental dilemma: rapid adaptation to new tasks often erases foundational knowledge (catastrophic forgetting), while protecting foundation models prevents personalization. This repository presents the Operational Blueprint, an architectural framework that addresses this challenge through explicit time-scale separation.
 
-The Ultimate Synthesis
+**The Ultimate Synthesis**
 
 This framework integrates insights from dual-process cognitive theory, predictive processing, and continual learning research into a unified computational architecture. It offers a prescriptive methodology for AI engineering that ensures:
 
-Structural Alignment: 
+**Structural Alignment:** 
 
 Foundational values and world knowledge are protected by freezing Self A, providing an architectural guarantee against reward hacking.
 
-Mitigated Catastrophic Forgetting:
+**Mitigated Catastrophic Forgetting:**
 
 A multi-layered defense (Frozen Backbone + LoRA + EWC) reduces forgetting to a predicted 12%, compared to 65% in monolithic systems.
 
-Explicit Arbitration: 
+**Explicit Arbitration:** 
 
 The use of $\alpha/\beta$ routing weights transforms the stability-plasticity tradeoff into an interpretable and loggable design parameter.
 
-Repository Contents
+**Repository Contents**
 
 Manuscript_v2.pdf: 
 
@@ -26,9 +26,9 @@ The full 2025 version 2.0 manuscript detailing the theoretical foundations and 2
 
 Dual_Self_Model.ipynb: 
 
-A Google Colab-ready implementation of the Operational Blueprint demonstrating all five core scenarios.
+**A Google Colab-ready implementation of the Operational Blueprint demonstrating all five core scenarios**
 
-Production_Readiness_Checklist: 
+**Production_Readiness_Checklist:** 
 
 A definitive guide for transitioning the architecture to high-stakes production environments (Section 6.9).
 
