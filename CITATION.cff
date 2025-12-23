@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this framework, software, or the associated manuscript, please cite it as follows."
+authors:
+  - family-names: "Reddy"
+    given-names: "Govind"
+    orcid: "https://orcid.org/0000-0000-0000-0000" # Replace with your ORCID if available
+title: "The Dual-Self Systems Model: A Principled Framework for Stability-Plasticity Balance in Artificial Intelligence"
+version: 2.0
+doi: 10.5281/zenodo.0000000 # Replace with Zenodo DOI if you have one
+date-released: 2025-12-24
+url: "https://github.com/yourusername/dual-self-model"
+keywords:
+  - "Artificial Intelligence"
+  - "Cognitive Science"
+  - "Catastrophic Forgetting"
+  - "Dual-Process Theory"
+  - "LoRA"
+  - "Stability-Plasticity"
+license: MIT
